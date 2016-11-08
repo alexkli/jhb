@@ -1,2 +1,3 @@
-# jhb
-Java HTTP Benchmark Tool
+jhb - Java Http Benchmarking tool
+=================================
+
